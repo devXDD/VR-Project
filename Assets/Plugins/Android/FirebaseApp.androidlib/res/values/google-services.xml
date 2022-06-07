@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://unityfirebase-865d7-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">210856847420</string>
+  <string name="google_storage_bucket" translatable="false">unityfirebase-865d7.appspot.com</string>
+  <string name="project_id" translatable="false">unityfirebase-865d7</string>
+  <string name="google_api_key" translatable="false">AIzaSyCxOxCb8-MGjmdR5ZCKL8x-DGuMMOnYcRM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCxOxCb8-MGjmdR5ZCKL8x-DGuMMOnYcRM</string>
+  <string name="google_app_id" translatable="false">1:210856847420:android:93892f3a6c74f80fbabb39</string>
+  <string name="default_web_client_id" translatable="false">210856847420-5a05r4mpsrpfuuavip4m5sl4gicrje3b.apps.googleusercontent.com</string>
+</resources>

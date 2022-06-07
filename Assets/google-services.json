@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "210856847420",
+    "firebase_url": "https://unityfirebase-865d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "unityfirebase-865d7",
+    "storage_bucket": "unityfirebase-865d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210856847420:android:0b806ada55b09c47babb39",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseAuthHaptic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210856847420-5a05r4mpsrpfuuavip4m5sl4gicrje3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOxCb8-MGjmdR5ZCKL8x-DGuMMOnYcRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210856847420-5a05r4mpsrpfuuavip4m5sl4gicrje3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210856847420:android:93892f3a6c74f80fbabb39",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.PhantomTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210856847420-5a05r4mpsrpfuuavip4m5sl4gicrje3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOxCb8-MGjmdR5ZCKL8x-DGuMMOnYcRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210856847420-5a05r4mpsrpfuuavip4m5sl4gicrje3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210856847420:android:0d247751649dede5babb39",
+        "android_client_info": {
+          "package_name": "com.UnityFIrebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210856847420-5a05r4mpsrpfuuavip4m5sl4gicrje3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOxCb8-MGjmdR5ZCKL8x-DGuMMOnYcRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210856847420-5a05r4mpsrpfuuavip4m5sl4gicrje3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
